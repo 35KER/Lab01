@@ -1,6 +1,6 @@
 import 'dart:io';
 
-// Pizza Order Calculator with while loop, input validation, and continuous ordering
+// Pizza Order Calculator improved with while loop, input validation, and continuous ordering
 void main() {
   print('Pizza Price: "Small: 5 USD, Medium: 7 USD, Large:10 USD"');
   String? pizzaSize, quantity, size;
